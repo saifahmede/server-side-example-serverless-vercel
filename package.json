@@ -1,6 +1,7 @@
 {
   "name": "server-side-example-serverless-vercel",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "vercel dev",
